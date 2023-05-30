@@ -77,3 +77,12 @@ git commit -am ""
 ## Изображения
 
 
+**Чтобы добавить изображения, воспользуйтесь следующей командой:**
+
+```
+![Альтернативный текст](ссылка на это фото)
+```
+
+```
+![Здесь был Вася и его фото](https://images.unsplash.com/photo-1517649763962-0c623066013b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80)
+```
